@@ -1306,7 +1306,7 @@ es: &es
   detailed: Detallado
   upload_list: Subir lista
   creating: Creando
-  open_source_documents_software: software de documentos de código abierto
+  open_source_documents_software: software de gestión de documentos
   copy_link: Copiar enlace
   opened: Abierto
   sent: Enviado
