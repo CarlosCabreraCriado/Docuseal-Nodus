@@ -1,4 +1,5 @@
 <template>
+  <!--
   <svg
     height="40"
     width="40"
@@ -84,10 +85,11 @@
       />
     </g>
   </svg>
+  -->
 </template>
 
 <script>
 export default {
-  name: 'ProjectLogo'
-}
+  name: "ProjectLogo",
+};
 </script>
